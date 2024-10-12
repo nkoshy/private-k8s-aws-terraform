@@ -1,4 +1,4 @@
-# private-k8s-aws-terraform
+# private-eks-aws-terraform
 Script to setup a private k8s cluster on VPC on AWS
 
 Terraform EKS Private Cluster Setup
